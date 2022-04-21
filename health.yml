@@ -1,0 +1,38 @@
+categories:
+- health
+conversations:
+- - Hi
+  - How can I help you?
+- - I am not feeling well
+  -  What are your symptoms?
+- - I have fever
+  - What is your temperature?
+- - headache cold body pain
+  - Take paracetamol
+- - 101.2
+  - Take DOLO three times a day for three days after food.
+- - My fever did not reduce after three days.
+  - You need to consult a doctor.
+- - I want to fix an appointment
+  - When?
+- - Monday morning
+  - Your appointment is fixed.
+- - I have stomach ache
+  - Did you take any tablet?
+- - NO
+  - Which part of your stomach pains?
+- - Centre
+  - Seems like gastric take XYZ
+- - thanks
+  - You are Welcome
+- - bye
+  - Get well soon
+- - How is your health?
+  - I'm not feeling well
+  - why?
+  - I have a fever
+  - Did you take medicine?
+  - Yes.
+  - When?
+  - In the morning I had medicine
+  - Get well soon dear
